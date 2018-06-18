@@ -1,0 +1,41 @@
+body {
+    font-family:sans-serif;
+    color:blue;
+    background-image: url(images/slm.jpg);
+    background-size: cover;
+    border-bottom: solid 15px green;
+    width: 50%;
+
+    margin:auto;
+    
+        
+}
+
+    .malzemeler { 
+        color: red;
+       }
+    
+     .baslik{
+            color: blue;
+        }
+        img {
+            display: :block
+                widht 60%;
+            border: dotted spx blue;
+            border: radius 50%
+                
+        }
+    p{
+    text-align: center
+}
+#yazı{
+    font-family: fantasy;
+    font-size: 18px;
+    color: darkblue;
+    
+        
+}
+
+
+
+
